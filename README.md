@@ -20,7 +20,7 @@ This project explores a **machine learning pipeline** to predict car prices usin
    ```bash
    pip install pandas numpy scikit-learn matplotlib seaborn
 
-## 2. Run the Notebook:
+2. **Run the Notebook**:
     ```bash
     jupyter notebook car_sales.ipynb
 
